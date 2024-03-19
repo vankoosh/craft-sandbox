@@ -1,0 +1,66 @@
+dateModified: 1710840308
+email:
+  fromEmail: dev-test@yoo.digital
+  fromName: craft-sandbox
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0f81ed88-e557-4dd4-93aa-6d038b7019e9: craft-sandbox # craft-sandbox
+    492a81d6-9afa-4b83-8681-48c7acc1b0ae: Common # Common
+    995ee09a-2353-47ef-be19-ea73332eaa39: craft-sandbox # craft-sandbox
+plugins:
+  architect:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.0
+  contact-form:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  contact-form-honeypot:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  craft-components:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  neo:
+    edition: standard
+    enabled: true
+    licenseKey: WMA6COSM9XADOMLCRO0WXGEL
+    schemaVersion: 4.0.0
+    settings:
+      blockTypeIconPath: '@webroot'
+      blockTypeIconSelectMode: sources
+      blockTypeIconSources: '*'
+      collapseAllBlocks: false
+      defaultAlwaysShowGroupDropdowns: true
+      enableBlockTypeUserPermissions: true
+      enableLazyLoadingNewBlocks: true
+      newBlockMenuStyle: classic
+      optimiseSearchIndexing: true
+  project-extension:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+  super-table:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0
+system:
+  edition: solo
+  live: true
+  name: craft-sandbox
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
