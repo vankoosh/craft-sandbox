@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: craft-sandbox
+primary: true
+siteGroup: bfc23076-0971-4707-b760-695bf04faf2a # craft-sandbox
+sortOrder: 1

@@ -1,0 +1,28 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: 47b4662d-548c-4826-a7cc-14afa7deb971 # Homepage
+handle: home
+maxAuthors: 1
+name: Home
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - Preview
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  d419e387-fa86-43c5-8625-be9762af624f: # craft-sandbox
+    enabledByDefault: true
+    hasUrls: true
+    template: home/homepage.twig
+    uriFormat: __home__
+type: single

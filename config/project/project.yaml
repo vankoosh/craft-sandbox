@@ -1,0 +1,24 @@
+dateModified: 1748512903
+email:
+  fromEmail: vankoosh@gmail.com
+  fromName: craft-sandbox
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    47b4662d-548c-4826-a7cc-14afa7deb971: Homepage # Homepage
+    bfc23076-0971-4707-b760-695bf04faf2a: craft-sandbox # craft-sandbox
+    d419e387-fa86-43c5-8625-be9762af624f: craft-sandbox # craft-sandbox
+    f46c9063-885b-4f3c-9d98-10cdf5ba1237: Home # Home
+system:
+  edition: solo
+  live: true
+  name: craft-sandbox
+  schemaVersion: 5.7.0.3
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
